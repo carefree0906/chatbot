@@ -403,7 +403,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
   position: relative;
   height: 768px;
   /*heigh可用100vh 但手機版圖片下方會被吃掉...*/
-  background-image: url(../img/bg_home.svg);
+  background-image: url("../img/bg_home.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: 850px 768px;
@@ -411,7 +411,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 @media (max-width: 576px) {
   .banner {
-    background-image: url(/img/bg_home_sm.svg);
+    background-image: url("../img/bg_home_sm.svg");
     background-size: 334px 245px;
     background-position: bottom right;
   }
@@ -563,15 +563,15 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
   }
 }
 .media .media-item-img-messenger {
-  background-image: url(/img/messenger.png);
+  background-image: url("../img/messenger.png");
   background-size: cover;
 }
 .media .media-item-img-line {
-  background-image: url(/img/line.png);
+  background-image: url("../img/line.png");
   background-size: cover;
 }
 .media .media-item-img-ig {
-  background-image: url(/img/instagram.png);
+  background-image: url("../img/instagram.png");
   background-size: cover;
 }
 
@@ -582,7 +582,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 .ball02-relative .ball02 {
   position: absolute;
-  background-image: url(/img/ball02.svg);
+  background-image: url("../img/ball02.svg");
   bottom: -155px;
   right: 0;
   width: 210px;
@@ -720,7 +720,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 .ball03-relative .ball03 {
   position: absolute;
-  background-image: url(/img/ball03.svg);
+  background-image: url("../img/ball03.svg");
   top: 48px;
   left: 30px;
   width: 150px;
@@ -821,7 +821,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 
 /*footerplan*/
 .footer-plan {
-  background-image: url(/img/bg.png);
+  background-image: url("../img/bg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -830,7 +830,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 @media (max-width: 576px) {
   .footer-plan {
-    background-image: url(/img/bg@2x.png);
+    background-image: url("../img/bg@2x.png");
     padding-top: 293px;
     padding-bottom: 60px;
   }
@@ -888,7 +888,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 
 .project-banner {
-  background-image: url(img/banner.svg);
+  background-image: url("..img/banner.svg");
   background-repeat: no-repeat;
   height: 545px;
   background-position: right top;
@@ -897,7 +897,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 @media (max-width: 576px) {
   .project-banner {
-    background-image: url(img/banner_sm.svg);
+    background-image: url("..img/banner_sm.svg");
     background-size: 375px 495px;
   }
 }
@@ -912,7 +912,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
 }
 .ball04-relative .ball04 {
   position: absolute;
-  background-image: url(img/ball03.svg);
+  background-image: url("..img/ball03.svg");
   top: 40%;
   left: 0;
   width: 94px;
