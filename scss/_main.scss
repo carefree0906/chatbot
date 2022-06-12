@@ -646,7 +646,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
     }
 }
 .project-banner{    
-        background-image: url("..img/banner.svg");
+        background-image: url("../img/banner.svg");
         background-repeat: no-repeat;
         height: 545px;    
         background-position: right top;
@@ -654,7 +654,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
         background-size: 885px 545px;
 
         @include phone{
-            background-image: url("..img/banner_sm.svg");
+            background-image: url("../img/banner_sm.svg");
             background-size: 375px 495px;
          }
 }
@@ -673,7 +673,7 @@ fblineins聊天機器人解決方案+量身打造專屬服務*/
     position: relative;
     .ball04 {
         position: absolute;
-        background-image: url("..img/ball03.svg");
+        background-image: url("../img/ball03.svg");
         top: 40%;
         left: 0;
         width: 94px;
